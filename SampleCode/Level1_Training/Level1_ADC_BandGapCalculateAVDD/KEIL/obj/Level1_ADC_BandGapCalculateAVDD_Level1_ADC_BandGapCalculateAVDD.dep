@@ -1,0 +1,11 @@
+Dependencies for Project 'Level1_ADC_BandGapCalculateAVDD', Target 'Level1_ADC_BandGapCalculateAVDD': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (..\..\..\..\Library\Device\Nuvoton\M031\Source\system_M031Series.c)(0x665D6AC0)()
+F (..\..\..\..\Library\Device\Nuvoton\M031\Source\ARM\startup_M031Series.s)(0x665D6AC0)()
+F (..\..\..\..\Library\StdDriver\src\retarget.c)(0x665D6AC1)()
+F (..\..\..\..\Library\StdDriver\src\uart.c)(0x665D6AC2)()
+F (..\..\..\..\Library\StdDriver\src\clk.c)(0x665D6AC1)()
+F (..\..\..\..\Library\StdDriver\src\adc.c)(0x665D6AC1)()
+F (..\..\..\..\Library\StdDriver\src\sys.c)(0x665D6AC2)()
+F (..\..\..\..\Library\StdDriver\src\fmc.c)(0x665D6AC1)()
+F (..\main.c)(0x665D6AC7)()
